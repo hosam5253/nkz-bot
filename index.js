@@ -28,4 +28,4 @@ console.log('عضو دخل:', member.user.tag);
 
 });
 
-client.login('MTUxODMwNTcxMDg1OTg3ODQ0MA.Gw8WWm.3sf1ggvP29dXUHu7N0PfgSPIW99pflvaf8sO44')
+client.login(process.env.TOKEN);
